@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @callumsutton
 - 👀 I’m interested in developing innovative products for the broadcast industry
-- 🌱 I’m currently learning Python and electronic design
-- 💞️ I’m looking to collaborate on code for the Raspberry Pi HQ Camera
+- 🌱 I’m currently learning C and electronic design
 - 📫 London, UK
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I make TV and cinema around the world
